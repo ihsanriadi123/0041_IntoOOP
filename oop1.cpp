@@ -37,3 +37,12 @@ class matakuliah {
             cout << "SKS \t: " << sks <<endl;
         }
 };
+
+int main () {
+    mahasiswa mhs;
+    matakuliah mk;
+    
+
+    mhs.nama = "Budi";
+
+}
