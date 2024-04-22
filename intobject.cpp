@@ -7,5 +7,12 @@ class bangundatar {
     public :
         float luas;
     
-    
+        void input () {
+            cout << "Masukkan Panjangnya = ";
+            cin >> panjang;
+            cout << "masukkan lebarnya = ";
+            cin >> lebar;
+            
+            
+        }
 }
