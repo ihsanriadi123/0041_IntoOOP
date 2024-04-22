@@ -20,8 +20,7 @@ class matakuliah {
         string kodeMK;
         string namaMK;
         int sks;
-    
-    
+
     public :
         void inputMK () {
             cout << "kode MK: ";
@@ -31,6 +30,7 @@ class matakuliah {
             cout << "Sks: ";
             cin >> sks;
         }
+        
         void output () {
             cout << "kode MK\t: " << kodeMK <<endl;
             cout << "nama MK\t: " << namaMK <<endl;
