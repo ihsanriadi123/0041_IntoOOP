@@ -6,8 +6,7 @@ class bangundatar {
         float panjang, lebar;
     public :
         float luas;
-        
-    
+
         void input () {
             cout << "Masukkan Panjangnya = ";
             cin >> panjang;
@@ -31,6 +30,7 @@ int main () {
     bangundatar.pp;
     pp.input;
     pp.display();
+
 
     return 0;
 }
