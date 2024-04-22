@@ -15,12 +15,12 @@ class mahasiswa {
     }
 };
 
-class matakuliah {
-    
+class matakuliah { 
     private :
         string kodeMK;
         string namaMK;
         int sks;
+    
     
     public :
         void inputMK () {
