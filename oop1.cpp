@@ -46,7 +46,10 @@ int main () {
     mhs.umur = 20;
     mhs.jurusan = "Teknik informastika";
     mhs.output();
-    
-     
 
+     mk.inputMK();
+     mk.output();
+
+     return 0;
 }
+
