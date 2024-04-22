@@ -17,13 +17,13 @@ class bangundatar {
                 return panjang * lebar;
             } 
 
+
             void display () {
                 cout << "Panjangnya = " << panjang << endl;
                 cout << "lebarnya = " << lebar << endl;
                 cout << "luasnya = " << hitungluas << endl;
             }
-        }
-        
+        }      
 };
 
 int main () {
